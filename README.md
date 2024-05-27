@@ -1,4 +1,8 @@
 # openai-finance-app-quickstart
+## 数据来源分析
+ - www.sse.com.cn
+ - cninfo.com.cn
+
 ## 公司分析
 ```
 我将提供一个公司名称，请返回一个表格，包含问题，答案两列，其中问题清单如下：
